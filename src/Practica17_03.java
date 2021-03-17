@@ -1,3 +1,4 @@
+import java.util.Scanner;
 
 public class Practica17_03 {
 
@@ -6,9 +7,12 @@ public class Practica17_03 {
 		System.out.println("esto es una calculadora basica de Juan :D");
 		
 		sumar();
+	
 
 	}
 	
+	
+
 	public static int sumar() {
 		
 		return 0;
